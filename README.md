@@ -1,1 +1,0 @@
-# rocketseat-stage2-projeto2
